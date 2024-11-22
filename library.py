@@ -86,7 +86,8 @@ class Library:
 
         if not re.match(AUTHOR_REGEX_NAME, author):
             self.show_message('Ошибка: Имя автора не должно'
-                              ' содержать цифры и должно начинаться с буквы.',
+                              ' содержать цифры и должно начинаться с буквы.'
+                              'Введите полное имя без сокращений и символов.',
                               success=False)
             return False
 
