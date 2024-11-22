@@ -29,4 +29,8 @@ git clone git@github.com:ovaynise/eff_mob_test_task.git
 python -m unittest tests.py
 ```
 
+
+----
+![AD1E1D78-89E3-4AF9-8665-687DC5D564BA](https://github.com/user-attachments/assets/2b84e9a6-c51d-4d1c-a078-7bca7191260d)
+
 ###### Создатель проекта: https://github.com/ovaynise
