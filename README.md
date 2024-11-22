@@ -18,7 +18,7 @@
 git clone git@github.com:ovaynise/eff_mob_test_task.git
 ```
 
-2. Запустите команду:
+2. Для запуска проекта запустите в консоле команду в директории проекта:
 
 ```bash
    python main.py
