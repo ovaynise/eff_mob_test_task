@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "title": "Мастер и Маргарита",
+        "author": "Михаил Афанасьевич Булгаков",
+        "year": 1967,
+        "status": "выдана"
+    },
+    {
+        "id": 2,
+        "title": "Design Principles and Design Patterns",
+        "author": "Robert  Martin",
+        "year": 2000,
+        "status": "в наличии"
+    }
+]
