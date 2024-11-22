@@ -7,6 +7,6 @@ MIN_YEAR = 100
 MAX_YEAR = datetime.now().year
 AUTHOR_REGEX_NAME = r"^[^\d\s][A-Za-zА-Яа-яёЁ\s]+$"
 DATABASE_PATCH = 'database.json'
-DEFAULT_ID_ON_DB = 12
+DEFAULT_ID_ON_DB = 0
 MIN_TITLE_LENGTH = 4
 MIN_BOOK_SEARCH_LENGHT = 2
