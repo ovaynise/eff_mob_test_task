@@ -2,7 +2,7 @@ import unittest
 from unittest.mock import patch
 
 from config import MIN_AUTHOR_LENGTH, MIN_TITLE_LENGTH
-from main import BookStatus, Library
+from library import BookStatus, Library
 
 
 class TestLibrary(unittest.TestCase):
